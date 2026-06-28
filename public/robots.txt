@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /account
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /auth
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /account
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /auth
+
+Sitemap: https://etmvlczflrzlsxkhyqgr.supabase.co/functions/v1/sitemap
